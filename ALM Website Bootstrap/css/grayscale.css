@@ -45,7 +45,7 @@ p {
 }
 
 a {
-    color: #42dca3;
+    color: #DC4254;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -265,7 +265,7 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+    background: url(../img/recruitment-background.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -305,17 +305,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #42dca3;
-    color: #42dca3;
+    border: 1px solid #DC4254;
+    color: #DC4254;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #42dca3;
+    border: 1px solid #DC4254;
     outline: 0;
     color: #000;
-    background-color: #42dca3;
+    background-color: #DC4254;
 }
 
 ul.banner-social-buttons {
